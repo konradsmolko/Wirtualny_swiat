@@ -18,6 +18,47 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="src\Antylopa.cpp" />
+    <ClCompile Include="src\Czlowiek.cpp" />
+    <ClCompile Include="src\Guarana.cpp" />
+    <ClCompile Include="src\Kontener.cpp" />
+    <ClCompile Include="src\Lis.cpp" />
+    <ClCompile Include="src\Mlecz.cpp" />
+    <ClCompile Include="src\Organizm.cpp" />
+    <ClCompile Include="src\Owca.cpp" />
+    <ClCompile Include="src\Roslina.cpp" />
+    <ClCompile Include="src\Swiat.cpp" />
+    <ClCompile Include="src\Trawa.cpp" />
+    <ClCompile Include="src\WilczeJagody.cpp" />
+    <ClCompile Include="src\Wilk.cpp" />
+    <ClCompile Include="src\Wyjatek.cpp" />
+    <ClCompile Include="src\Zolw.cpp" />
+    <ClCompile Include="src\Zwierze.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Antylopa.h" />
+    <ClInclude Include="src\Czlowiek.h" />
+    <ClInclude Include="src\globals.h" />
+    <ClInclude Include="src\Guarana.h" />
+    <ClInclude Include="src\Kontener.h" />
+    <ClInclude Include="src\Lis.h" />
+    <ClInclude Include="src\Mlecz.h" />
+    <ClInclude Include="src\Organizm.h" />
+    <ClInclude Include="src\Owca.h" />
+    <ClInclude Include="src\Roslina.h" />
+    <ClInclude Include="src\Swiat.h" />
+    <ClInclude Include="src\Trawa.h" />
+    <ClInclude Include="src\WilczeJagody.h" />
+    <ClInclude Include="src\Wilk.h" />
+    <ClInclude Include="src\Wyjatek.h" />
+    <ClInclude Include="src\Zolw.h" />
+    <ClInclude Include="src\Zwierze.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="src\globals.h.gch" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{D9331E29-913A-4A01-B4EE-6BC47D2245EE}</ProjectGuid>
     <RootNamespace>Wirtualny_swiat</RootNamespace>
@@ -109,8 +150,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

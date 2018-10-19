@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1461707625 source:d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\main.cpp
+	<iostream>
+	<conio.h>
+	"Swiat.h"
+	"Wyjatek.h"
+
+1461707625 source:d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\src\organizm.cpp
+	"Organizm.h"
+	<chrono>
+	<random>
+	<iostream>
+
+1461707437 d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\include\organizm.h
+	"Swiat.h"
+	"Kontener.h"
+
+1461707122 source:d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\src\roslina.cpp
+	"Roslina.h"
+	<chrono>
+	<random>
+
+1461694017 d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\include\roslina.h
+	<Organizm.h>
+
+1461707160 source:d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\src\swiat.cpp
+	"Swiat.h"
+	<iostream>
+	<cstdlib>
+
+1461707625 d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\include\swiat.h
+	"Kontener.h"
+	<vector>
+
+1461707625 source:d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\src\zwierze.cpp
+	"Zwierze.h"
+	<chrono>
+	<iostream>
+	<random>
+
+1461521159 d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\include\zwierze.h
+	<Organizm.h>
+
+1461706755 source:d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\src\antylopa.cpp
+	"Antylopa.h"
+	<chrono>
+	<random>
+	<iostream>
+
+1461690896 d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\include\antylopa.h
+	<Zwierze.h>
+
+1461707566 source:d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\src\czlowiek.cpp
+	"Czlowiek.h"
+	<iostream>
+
+1461700258 d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\include\czlowiek.h
+	<Zwierze.h>
+
+1461704880 source:d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\src\guarana.cpp
+	"Guarana.h"
+
+1461694377 d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\include\guarana.h
+	<Roslina.h>
+
+1461706846 source:d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\src\kontener.cpp
+	"Kontener.h"
+	<algorithm>
+	<chrono>
+	<random>
+	<iostream>
+	"Czlowiek.h"
+	"Antylopa.h"
+	"Lis.h"
+	"Owca.h"
+	"Wilk.h"
+	"Zolw.h"
+	"Guarana.h"
+	"Mlecz.h"
+	"Trawa.h"
+	"WilczeJagody.h"
+
+1461707625 d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\include\kontener.h
+	<vector>
+	<chrono>
+	<random>
+	"Organizm.h"
+	"Swiat.h"
+
+1461706860 source:d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\src\lis.cpp
+	"Lis.h"
+	<iostream>
+
+1461690776 d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\include\lis.h
+	<Zwierze.h>
+
+1461694899 source:d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\src\mlecz.cpp
+	"Mlecz.h"
+
+1461694899 d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\include\mlecz.h
+	<Roslina.h>
+
+1461676548 source:d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\src\owca.cpp
+	"Owca.h"
+
+1461676493 d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\include\owca.h
+	<Zwierze.h>
+
+1461695037 source:d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\src\trawa.cpp
+	"Trawa.h"
+
+1461695056 d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\include\trawa.h
+	<Roslina.h>
+
+1461695200 source:d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\src\wilczejagody.cpp
+	"WilczeJagody.h"
+
+1461695157 d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\include\wilczejagody.h
+	<Roslina.h>
+
+1461707160 source:d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\src\wilk.cpp
+	"Wilk.h"
+
+1461678284 d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\include\wilk.h
+	<Zwierze.h>
+
+1461707193 source:d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\src\zolw.cpp
+	"Zolw.h"
+
+1461690896 d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\include\zolw.h
+	<Zwierze.h>
+
+1461447599 source:d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\include\globals.h
+
+1461705887 d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\include\wyjatek.h
+
+1461705887 source:d:\dokumenty\=szko³a=\pp\labirynt\123\wirtualny_swiat\src\wyjatek.cpp
+	"Wyjatek.h"
+

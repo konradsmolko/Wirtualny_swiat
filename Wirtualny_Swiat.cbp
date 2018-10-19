@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Wirtualny_Swiat" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin/Release/Wirtualny_Swiat" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Antylopa.h" />
+		<Unit filename="include/Czlowiek.h" />
+		<Unit filename="include/Guarana.h" />
+		<Unit filename="include/Kontener.h" />
+		<Unit filename="include/Lis.h" />
+		<Unit filename="include/Mlecz.h" />
+		<Unit filename="include/Organizm.h" />
+		<Unit filename="include/Owca.h" />
+		<Unit filename="include/Roslina.h" />
+		<Unit filename="include/Swiat.h" />
+		<Unit filename="include/Trawa.h" />
+		<Unit filename="include/WilczeJagody.h" />
+		<Unit filename="include/Wilk.h" />
+		<Unit filename="include/Wyjatek.h" />
+		<Unit filename="include/Zolw.h" />
+		<Unit filename="include/Zwierze.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Antylopa.cpp" />
+		<Unit filename="src/Czlowiek.cpp" />
+		<Unit filename="src/Guarana.cpp" />
+		<Unit filename="src/Kontener.cpp" />
+		<Unit filename="src/Lis.cpp" />
+		<Unit filename="src/Mlecz.cpp" />
+		<Unit filename="src/Organizm.cpp" />
+		<Unit filename="src/Owca.cpp" />
+		<Unit filename="src/Roslina.cpp" />
+		<Unit filename="src/Swiat.cpp" />
+		<Unit filename="src/Trawa.cpp" />
+		<Unit filename="src/WilczeJagody.cpp" />
+		<Unit filename="src/Wilk.cpp" />
+		<Unit filename="src/Wyjatek.cpp" />
+		<Unit filename="src/Zolw.cpp" />
+		<Unit filename="src/Zwierze.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
